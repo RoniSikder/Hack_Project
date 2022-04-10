@@ -1,0 +1,44 @@
+body {
+    border: 3px solid black;
+    border-radius: 10px;
+  }
+  
+  h1 {
+    margin: 20px 50px;
+    /* font-size: 4rem; */
+    text-decoration: underline;
+    font-family: 'Bree Serif', serif;
+    font-family: 'Merriweather Sans', sans-serif;
+  }
+  
+  h2 {
+    /* text-decoration: underline; */
+    /* margin-left: 50px; */
+    font-family: 'Bree Serif', serif;
+    font-family: 'Merriweather Sans', sans-serif;
+  }
+  .item {
+    width: 60%;
+    margin: 20px;
+    text-align: left;
+    line-height: 1.5;
+    /* font-size: 1.5rem; */
+    /* font-weight: 800; */
+    color: #180A0A;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .img {
+    margin-right: 20px;
+    height: 561px;
+    width: 626px;
+  }
+  p{
+    font-size: 25px;
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+  }
